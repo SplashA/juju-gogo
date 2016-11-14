@@ -1,0 +1,10 @@
+package com.gogojuju.series;
+
+public class Acteurs {
+
+	private String nom;
+	private String prenom;
+	
+	public Acteurs(){
+	
+}
