@@ -1,0 +1,13 @@
+package com.gogojuju.series;
+
+public class Serie {
+	
+	private int id;
+	private String seriesName;
+	private String network;
+	private String overview;
+	private float siteRating;
+	
+	
+	
+}
