@@ -1,3 +1,0 @@
-INDEX VERSION 1.129+/Users/telliouze/Library/Mobile Documents/com~apple~CloudDocs/OSS/Git/juju-gogo/SeriesTV/.metadata/.plugins/org.eclipse.jdt.core
-1794226581.index
-793458309.index
