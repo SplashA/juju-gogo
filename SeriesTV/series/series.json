@@ -1,0 +1,576 @@
+{
+  "series": [
+    {
+      "id": 73871,
+      "seriesName": "Futurama",
+      "aliases": [
+
+      ],
+      "banner": "graphical/73871-g15.jpg",
+      "seriesId": "249",
+      "status": "Ended",
+      "firstAired": "1999-03-28",
+      "network": "Comedy Central (US)",
+      "networkId": "",
+      "runtime": "20",
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Science-Fiction"
+      ],
+      "overview": "Accidentellement cryogénisé le 31 décembre 1999 alors qu'il livrait une pizza, Fry se réveille 1000 ans plus tard à New York. A l'aube de l'an 3000, le monde a bien changé, peuplé de robots et d'extraterrestres. Le jeune homme retrouve l'un de ses descendants qui l'engage lui et ses nouveaux amis, Leela et Bender, au Planet Express, une entreprise de livraison. Ensemble, ils vont devoir faire face à de périlleuses et délirantes missions dans un monde des plus surprenants.",
+      "lastUpdated": 1476939505,
+      "airsDayOfWeek": "Wednesday",
+      "airsTime": "10:00 PM",
+      "rating": "TV-14",
+      "imdbId": "tt0149460",
+      "zap2itId": "SH00303483",
+      "added": "",
+      "addedBy": null,
+      "siteRating": 8.8,
+      "siteRatingCount": 605
+    },
+    {
+      "id": 305288,
+      "seriesName": "Stranger Things",
+      "aliases": [
+
+      ],
+      "banner": "graphical/305288-g4.jpg",
+      "seriesId": "",
+      "status": "Continuing",
+      "firstAired": "2016-07-15",
+      "network": "Netflix",
+      "networkId": "",
+      "runtime": "50",
+      "genre": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Science-Fiction",
+        "Suspense"
+      ],
+      "overview": "En 1983, à Hawkins dans l’Indiana, un jeune garçon disparaît sans laisser de traces. La famille, les amis et la police locale cherchent des réponses et se retrouvent plongés dans un mystère mêlant des expériences secrètes menées par le gouvernement, des forces surnaturelles et une petite fille particulièrement étrange.",
+      "lastUpdated": 1476985508,
+      "airsDayOfWeek": "Friday",
+      "airsTime": "12:00 AM",
+      "rating": "TV-14",
+      "imdbId": "tt4574334",
+      "zap2itId": "EP02451975",
+      "added": "2016-01-02 16:43:25",
+      "addedBy": 442515,
+      "siteRating": 9,
+      "siteRatingCount": 42
+    },
+    {
+      "id": 277165,
+      "seriesName": "Silicon Valley",
+      "aliases": [
+
+      ],
+      "banner": "graphical/277165-g9.jpg",
+      "seriesId": "3072410",
+      "status": "Continuing",
+      "firstAired": "2014-04-06",
+      "network": "HBO",
+      "networkId": "",
+      "runtime": "30",
+      "genre": [
+        "Comedy"
+      ],
+      "overview": "Dans cette ruée vers l’or des temps modernes, au cœur de la Silicon Valley, les plus qualifiés sont les moins à même de gérer leur réussite. Créée par HBO et l’excentrique esprit de Mike Judge (35 heures, c’est déjà trop !, Beavis et Butt-Head), cette nouvelle série comique plonge dans l’univers outrancier des start-ups et des informaticiens socialement maladroits qui essayent de réussir. Tout au long de la Saison 1, la série retrace l’ascension de Richard, un programmeur introverti, vivant avec Big Head, son meilleur ami, le pédant Gilfoyle et le sarcastique Dinesh sous le toit d’un millionnaire du numérique, le vaniteux Erlich, qui les héberge gratuitement... en échange d’une commission de 10 % sur leurs projets. Alors que sa carrière est au point mort, Richard se retrouve soudainement au beau milieu d’une surenchère pour l’achat de l’algorithme de recherche qu’il a inventé pour son site Internet.",
+      "lastUpdated": 1475824161,
+      "airsDayOfWeek": "Sunday",
+      "airsTime": "10:00 PM",
+      "rating": "TV-MA",
+      "imdbId": "tt2575988",
+      "zap2itId": "SH01859571",
+      "added": "2014-01-10 11:18:03",
+      "addedBy": 346515,
+      "siteRating": 8.7,
+      "siteRatingCount": 76
+    },
+    {
+      "id": 80337,
+      "seriesName": "Mad Men",
+      "aliases": [
+
+      ],
+      "banner": "graphical/80337-g13.jpg",
+      "seriesId": "74140",
+      "status": "Ended",
+      "firstAired": "2007-07-19",
+      "network": "AMC",
+      "networkId": "",
+      "runtime": "60",
+      "genre": [
+        "Drama"
+      ],
+      "overview": "Dans le New York des années 60, Don Draper est l'un des grands noms de la pub. Maître manipulateur, il compte dans son entourage des ennemis qui attendent sa chute.",
+      "lastUpdated": 1476374263,
+      "airsDayOfWeek": "Sunday",
+      "airsTime": "10:00 PM",
+      "rating": "TV-14",
+      "imdbId": "tt0804503",
+      "zap2itId": "EP00935777",
+      "added": "",
+      "addedBy": null,
+      "siteRating": 8.6,
+      "siteRatingCount": 199
+    }
+  ],
+  "actors": [
+    {
+      "id": 28868,
+      "seriesId": 73871,
+      "name": "Katey Sagal",
+      "role": "Turanga Leela",
+      "sortOrder": 0,
+      "image": "actors/28868.jpg",
+      "imageAuthor": 4523,
+      "imageAdded": "2008-10-24 16:06:13",
+      "lastUpdated": "2008-10-24 16:06:13"
+    },
+    {
+      "id": 28872,
+      "seriesId": 73871,
+      "name": "Lauren Tom",
+      "role": "Amy Wong",
+      "sortOrder": 3,
+      "image": "actors/28872.jpg",
+      "imageAuthor": 2470,
+      "imageAdded": "2008-11-04 14:27:12",
+      "lastUpdated": "2008-11-04 14:27:12"
+    },
+    {
+      "id": 28873,
+      "seriesId": 73871,
+      "name": "Billy West",
+      "role": "Phillip J. Fry|Hubert J. Farnsworth|Zapp Brannigan|Zoidberg",
+      "sortOrder": 0,
+      "image": "actors/28873.jpg",
+      "imageAuthor": 3015,
+      "imageAdded": "2008-08-03 14:41:11",
+      "lastUpdated": "2010-06-09 15:57:33"
+    },
+    {
+      "id": 28874,
+      "seriesId": 73871,
+      "name": "John DiMaggio",
+      "role": "Bender",
+      "sortOrder": 2,
+      "image": "actors/28874.jpg",
+      "imageAuthor": 2470,
+      "imageAdded": "2008-11-04 14:24:39",
+      "lastUpdated": "2016-09-30 17:03:59"
+    },
+    {
+      "id": 28875,
+      "seriesId": 73871,
+      "name": "Phil LaMarr",
+      "role": "Hermes Conrad",
+      "sortOrder": 3,
+      "image": "actors/28875.jpg",
+      "imageAuthor": 2470,
+      "imageAdded": "2008-11-04 14:29:07",
+      "lastUpdated": "2016-06-20 05:13:17"
+    },
+    {
+      "id": 384319,
+      "seriesId": 73871,
+      "name": "Billy West",
+      "role": "Phillip J. Fry",
+      "sortOrder": 3,
+      "image": "",
+      "imageAuthor": null,
+      "imageAdded": "",
+      "lastUpdated": "2016-06-20 05:14:04"
+    },
+    {
+      "id": 368571,
+      "seriesId": 305288,
+      "name": "Winona Ryder",
+      "role": "Joyce Byers",
+      "sortOrder": 0,
+      "image": "actors/368571.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:22:13",
+      "lastUpdated": "2016-08-12 12:25:53"
+    },
+    {
+      "id": 368572,
+      "seriesId": 305288,
+      "name": "Matthew Modine",
+      "role": "Martin Brenner",
+      "sortOrder": 3,
+      "image": "actors/368572.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:18:26",
+      "lastUpdated": "2016-08-12 12:21:36"
+    },
+    {
+      "id": 386786,
+      "seriesId": 305288,
+      "name": "Noah Schnapp",
+      "role": "Will Byers",
+      "sortOrder": 3,
+      "image": "actors/386786.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:17:07",
+      "lastUpdated": "2016-08-12 12:24:03"
+    },
+    {
+      "id": 386785,
+      "seriesId": 305288,
+      "name": "Natalia Dyer",
+      "role": "Nancy Wheeler",
+      "sortOrder": 2,
+      "image": "actors/386785.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:19:21",
+      "lastUpdated": "2016-08-12 12:25:23"
+    },
+    {
+      "id": 386783,
+      "seriesId": 305288,
+      "name": "Caleb McLaughlin",
+      "role": "Lucas Sinclair",
+      "sortOrder": 3,
+      "image": "actors/386783.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:23:07",
+      "lastUpdated": "2016-08-12 12:23:07"
+    },
+    {
+      "id": 386782,
+      "seriesId": 305288,
+      "name": "Gaten Matarazzo",
+      "role": "Dustin Henderson",
+      "sortOrder": 3,
+      "image": "actors/386782.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:22:40",
+      "lastUpdated": "2016-08-12 12:22:40"
+    },
+    {
+      "id": 386784,
+      "seriesId": 305288,
+      "name": "Finn Wolfhard",
+      "role": "Mike Wheeler",
+      "sortOrder": 1,
+      "image": "actors/386784.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:24:53",
+      "lastUpdated": "2016-08-12 12:25:08"
+    },
+    {
+      "id": 386779,
+      "seriesId": 305288,
+      "name": "David Harbour",
+      "role": "Jim Hopper",
+      "sortOrder": 3,
+      "image": "actors/386779.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:20:36",
+      "lastUpdated": "2016-08-12 12:20:36"
+    },
+    {
+      "id": 386781,
+      "seriesId": 305288,
+      "name": "Millie Bobby Brown",
+      "role": "Eleven",
+      "sortOrder": 0,
+      "image": "actors/386781.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:23:57",
+      "lastUpdated": "2016-08-13 03:06:59"
+    },
+    {
+      "id": 389675,
+      "seriesId": 305288,
+      "name": "Charlie Heaton",
+      "role": "Jonathan Byers",
+      "sortOrder": 3,
+      "image": "actors/389675.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2016-08-12 12:18:52",
+      "lastUpdated": "2016-08-12 12:18:52"
+    },
+    {
+      "id": 326385,
+      "seriesId": 277165,
+      "name": "Thomas Middleditch",
+      "role": "Richard",
+      "sortOrder": 0,
+      "image": "actors/326385.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:41:43",
+      "lastUpdated": "2014-04-29 01:41:43"
+    },
+    {
+      "id": 326386,
+      "seriesId": 277165,
+      "name": "T.J. Miller",
+      "role": "Erlich",
+      "sortOrder": 1,
+      "image": "actors/326386.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:43:15",
+      "lastUpdated": "2014-04-29 01:43:15"
+    },
+    {
+      "id": 326387,
+      "seriesId": 277165,
+      "name": "Kumail Nanjiani",
+      "role": "Dinesh",
+      "sortOrder": 2,
+      "image": "actors/326387.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:44:35",
+      "lastUpdated": "2014-04-29 01:44:35"
+    },
+    {
+      "id": 326388,
+      "seriesId": 277165,
+      "name": "Zach Woods",
+      "role": "Jared",
+      "sortOrder": 2,
+      "image": "actors/326388.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:46:16",
+      "lastUpdated": "2014-04-29 01:46:16"
+    },
+    {
+      "id": 326389,
+      "seriesId": 277165,
+      "name": "Martin Starr",
+      "role": "Gilfoyle",
+      "sortOrder": 2,
+      "image": "actors/326389.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:53:17",
+      "lastUpdated": "2016-03-21 16:06:38"
+    },
+    {
+      "id": 326390,
+      "seriesId": 277165,
+      "name": "Josh Brener",
+      "role": "Big Head",
+      "sortOrder": 3,
+      "image": "actors/326390.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:51:50",
+      "lastUpdated": "2014-04-29 01:51:50"
+    },
+    {
+      "id": 326391,
+      "seriesId": 277165,
+      "name": "Christopher Evan Welch",
+      "role": "Peter Gregory",
+      "sortOrder": 3,
+      "image": "actors/326391.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:49:50",
+      "lastUpdated": "2014-04-29 01:49:50"
+    },
+    {
+      "id": 326392,
+      "seriesId": 277165,
+      "name": "Amanda Crew",
+      "role": "Monica",
+      "sortOrder": 3,
+      "image": "actors/326392.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:47:47",
+      "lastUpdated": "2014-04-29 01:47:47"
+    },
+    {
+      "id": 326393,
+      "seriesId": 277165,
+      "name": "Matt Ross",
+      "role": "Gavin Belson",
+      "sortOrder": 3,
+      "image": "actors/326393.jpg",
+      "imageAuthor": 370954,
+      "imageAdded": "2014-04-29 01:55:27",
+      "lastUpdated": "2014-04-29 01:55:27"
+    },
+    {
+      "id": 78332,
+      "seriesId": 80337,
+      "name": "Jon Hamm",
+      "role": "Don Draper",
+      "sortOrder": 0,
+      "image": "actors/78332.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-04-09 01:30:55",
+      "lastUpdated": "2012-04-09 01:30:55"
+    },
+    {
+      "id": 78333,
+      "seriesId": 80337,
+      "name": "John Slattery",
+      "role": "Roger Sterling",
+      "sortOrder": 3,
+      "image": "actors/78333.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-04-09 01:32:18",
+      "lastUpdated": "2012-04-09 01:32:18"
+    },
+    {
+      "id": 78343,
+      "seriesId": 80337,
+      "name": "Christina Hendricks",
+      "role": "Joan Holloway",
+      "sortOrder": 3,
+      "image": "actors/78343.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-04-09 01:33:46",
+      "lastUpdated": "2012-04-09 01:33:46"
+    },
+    {
+      "id": 78344,
+      "seriesId": 80337,
+      "name": "Vincent Kartheiser",
+      "role": "Pete Campbell",
+      "sortOrder": 3,
+      "image": "actors/78344.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-18 08:07:44",
+      "lastUpdated": "2012-03-18 08:07:44"
+    },
+    {
+      "id": 103201,
+      "seriesId": 80337,
+      "name": "January Jones",
+      "role": "Betty Draper",
+      "sortOrder": 1,
+      "image": "actors/103201.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:52:12",
+      "lastUpdated": "2012-03-10 03:52:12"
+    },
+    {
+      "id": 103211,
+      "seriesId": 80337,
+      "name": "Elisabeth Moss",
+      "role": "Peggy Olson",
+      "sortOrder": 2,
+      "image": "actors/103211.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-04-09 01:35:10",
+      "lastUpdated": "2014-08-02 12:42:47"
+    },
+    {
+      "id": 103221,
+      "seriesId": 80337,
+      "name": "Rich Sommer",
+      "role": "Harry Crane",
+      "sortOrder": 3,
+      "image": "actors/103221.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:57:46",
+      "lastUpdated": "2012-03-10 03:57:46"
+    },
+    {
+      "id": 103231,
+      "seriesId": 80337,
+      "name": "Michael Gladis",
+      "role": "Paul Kinsey",
+      "sortOrder": 3,
+      "image": "actors/103231.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-18 08:26:39",
+      "lastUpdated": "2012-03-18 08:26:39"
+    },
+    {
+      "id": 103241,
+      "seriesId": 80337,
+      "name": "Aaron Staton",
+      "role": "Ken Cosgrove",
+      "sortOrder": 3,
+      "image": "actors/103241.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:56:01",
+      "lastUpdated": "2012-03-10 03:56:01"
+    },
+    {
+      "id": 230641,
+      "seriesId": 80337,
+      "name": "Alison Brie",
+      "role": "Trudy Campbell",
+      "sortOrder": 3,
+      "image": "actors/230641.jpg",
+      "imageAuthor": 128021,
+      "imageAdded": "2010-12-12 08:28:58",
+      "lastUpdated": "2010-12-12 08:28:58"
+    },
+    {
+      "id": 297409,
+      "seriesId": 80337,
+      "name": "Jessica Paré",
+      "role": "Megan Calvet",
+      "sortOrder": 3,
+      "image": "actors/297409.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-04-09 01:39:51",
+      "lastUpdated": "2012-04-09 01:39:51"
+    },
+    {
+      "id": 296237,
+      "seriesId": 80337,
+      "name": "Robert Morse",
+      "role": "Bertram Cooper",
+      "sortOrder": 3,
+      "image": "actors/296237.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:51:07",
+      "lastUpdated": "2012-03-10 03:51:07"
+    },
+    {
+      "id": 296238,
+      "seriesId": 80337,
+      "name": "Jared Harris",
+      "role": "Lane Price",
+      "sortOrder": 3,
+      "image": "actors/296238.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:53:44",
+      "lastUpdated": "2012-03-10 03:53:44"
+    },
+    {
+      "id": 296239,
+      "seriesId": 80337,
+      "name": "Christopher Stanley",
+      "role": "Henry Francis",
+      "sortOrder": 3,
+      "image": "actors/296239.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:54:51",
+      "lastUpdated": "2012-03-10 03:54:51"
+    },
+    {
+      "id": 296240,
+      "seriesId": 80337,
+      "name": "Jay R. Ferguson",
+      "role": "Stan Rizzo",
+      "sortOrder": 3,
+      "image": "actors/296240.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 03:58:37",
+      "lastUpdated": "2012-03-10 03:58:37"
+    },
+    {
+      "id": 296241,
+      "seriesId": 80337,
+      "name": "Kiernan Shipka",
+      "role": "Sally Draper",
+      "sortOrder": 3,
+      "image": "actors/296241.jpg",
+      "imageAuthor": 235,
+      "imageAdded": "2012-03-10 04:00:16",
+      "lastUpdated": "2012-03-10 04:00:16"
+    }
+  ]
+}
+}
