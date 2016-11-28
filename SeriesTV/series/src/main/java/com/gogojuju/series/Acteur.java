@@ -19,49 +19,33 @@ public class Acteur {
 		return id;
 	}
 
-
-
 	public void setId(long id) {
 		this.id = id;
 	}
-
-
 
 	public long getSeriesId() {
 		return seriesId;
 	}
 
-
-
 	public void setSeriesId(long seriesId) {
 		this.seriesId = seriesId;
 	}
-
-
 
 	public String getName() {
 		return name;
 	}
 
-
-
 	public void setName(String name) {
 		this.name = name;
 	}
-
-
 
 	public String getRole() {
 		return role;
 	}
 
-
-
 	public void setRole(String role) {
 		this.role = role;
 	}
-
-
 
 	@Override
 	public String toString()

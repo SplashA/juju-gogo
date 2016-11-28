@@ -1,9 +1,11 @@
 package com.gogojuju.series;
 
+// La sérialisation va nous permettre de faire correspondre nos champs JSON et nos attributs de classe
 import com.google.gson.annotations.SerializedName;
 
 
 public class Serie implements Comparable<Serie> {
+	// L'attribut comp va nous permettre de choisir le champ de tri
 	private static String comp = "rating";
 	
 	@SerializedName("id")
@@ -68,6 +70,7 @@ public class Serie implements Comparable<Serie> {
 		return this.genre;
 	}
 	
+	// Comme genre est un tableau de String, on définit une méthode pour l'afficher correctement
 	public String afficherGenre()
 	{
 		String g = "";
@@ -82,12 +85,13 @@ public class Serie implements Comparable<Serie> {
 		return g;
 	}
 	
-	
+	// Permet de changer le mode de tri
 	static public void setComp(String c)
 	{
 		Serie.comp = c;
 	}
 	
+	// Override de la méthode toString de Serie afin d'afficher toutes les infos sur l'objet "proprement"
 	@Override
 	public String toString() {
 		return "\nId :" + this.id + "\n" +
@@ -98,8 +102,11 @@ public class Serie implements Comparable<Serie> {
 				"Note :" + this.siteRating + "\n";
 	}
 	
+	// Comme la classe Serie implémente l'interface Comparable, 
+	// on peut définir la manière par laquelle les instances se comparent (utile pour les tris et equals())
 	@Override
 	public int compareTo(Serie s){
+		// On choisit un champ de comparaison différent selon l'attribut static comp
 		if (comp.equals("alpha"))
 		{
 			String titre1 = this.seriesName.toLowerCase();

@@ -19,6 +19,4 @@ public class Temp {
 	public List<Acteur> getActors() {
 		return actors;
 	}
-	
-	
 }
