@@ -4,9 +4,10 @@ import com.google.gson.annotations.SerializedName;
 
 
 public class Serie implements Comparable<Serie> {
+	private static String comp = "rating";
+	
 	@SerializedName("id")
 	private long id;
-	private static String comp = "rating";
 	
 	@SerializedName("seriesName")
 	private String seriesName;
@@ -19,6 +20,9 @@ public class Serie implements Comparable<Serie> {
 	
 	@SerializedName("siteRating")
 	private float siteRating;
+	
+	@SerializedName("genre")
+	private String[] genre;
 	
 	public long getId() {
 		return id;
@@ -60,6 +64,25 @@ public class Serie implements Comparable<Serie> {
 		this.siteRating = siteRating;
 	}
 	
+	public String[] getGenre() {
+		return this.genre;
+	}
+	
+	public String afficherGenre()
+	{
+		String g = "";
+		if(genre.length>0)
+		{
+			g = genre[0];
+			for(int i = 1; i < genre.length;i++)
+			{
+				g = g + "," + genre[i];
+			}
+		}
+		return g;
+	}
+	
+	
 	static public void setComp(String c)
 	{
 		Serie.comp = c;
@@ -69,6 +92,7 @@ public class Serie implements Comparable<Serie> {
 	public String toString() {
 		return "Id :" + this.id + "\n" +
 				"Nom :" + this.seriesName + "\n" +
+				"Genre :" + this.afficherGenre() + "\n" +
 				"Chaîne :" + this.network + "\n" +
 				"Résumé :" + this.overview + "\n" +
 				"Note :" + this.siteRating + "\n*************************\n";
