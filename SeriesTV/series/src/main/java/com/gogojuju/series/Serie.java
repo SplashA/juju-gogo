@@ -90,12 +90,12 @@ public class Serie implements Comparable<Serie> {
 	
 	@Override
 	public String toString() {
-		return "Id :" + this.id + "\n" +
+		return "\nId :" + this.id + "\n" +
 				"Nom :" + this.seriesName + "\n" +
 				"Genre :" + this.afficherGenre() + "\n" +
 				"Chaîne :" + this.network + "\n" +
 				"Résumé :" + this.overview + "\n" +
-				"Note :" + this.siteRating + "\n*************************\n";
+				"Note :" + this.siteRating + "\n";
 	}
 	
 	@Override
